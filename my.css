@@ -1,0 +1,75 @@
+.search{
+    position:absolute;
+    top:280px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap:2px;
+    column-gap: 2px;
+    justify-content: space-between;
+    
+   
+}
+.search_image{
+    height:300px;
+    width:200px;
+    border-radius: 20px;
+    
+}
+.search_bar{
+    position:absolute;
+    top:160px;
+    left:600px;
+}
+.search_button{
+    position:absolute;
+    top:160px;
+    left:900px;
+}
+.Text1{
+   
+    color:White;
+    font-size: 32px;
+    font-style: italic;
+}
+.Details{
+    display:block;
+    height:400px;
+    width:500px;
+    position:absolute;
+    left:600px;
+    
+}
+.search_image1{
+    position: absolute;
+    left:70px;
+    height:400px;
+    width:400px;
+    border-radius: 20px;
+}
+.meta{
+    color:white;
+    font-size: 25px;
+    font-style: italic;
+
+}
+.MovieCast{
+    color:white;
+    font-size: 25px;
+    font-style: italic;
+}
+.ButtonGroups{
+    position: absolute;
+    left:720px;
+    display: flex;
+    gap:20px;
+    top:370px;
+    
+}
+.Watch,.Watchbutton{
+    width:200px;
+}
+.MovieDes{
+    color:white;
+    font-size: 25px;
+    font-style: italic;
+}

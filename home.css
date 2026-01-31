@@ -1,0 +1,36 @@
+*{
+    background-color: black;
+    
+}
+body, html {
+  overflow-x: hidden;
+}
+
+.Container1{
+    position:absolute;
+    top:500px;
+    left:30px;
+    width:100%;
+    height:100vh;
+    display: flex;
+    gap:40px;
+    flex-wrap: wrap;
+    
+   
+
+
+    
+}
+.movie{
+    height:300px;
+    width:200px;
+    border-radius:4px;
+    transition: all 1s;
+    box-shadow:0 4px 12px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+
+
+}
+.movie:hover{
+    transform: scale(1.3);
+}

@@ -1,0 +1,213 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "KGF Chapter 2",
+      "image":"/images/kgf.jpg",
+      "trailerId": "/kgf.mp4",
+      "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
+      "cast":"Yash, Srinidhi Shetty, Sanjay Dutt"
+
+    },
+    {
+      "id": 2,
+      "title": "Salaar",
+      "image": "salaar.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and revenge.",
+      "cast":"Prabhas,Prithviraj Sukumaran"
+    },
+    {
+      "id": 3,
+      "title": "Game of Thrones",
+      "image": "game.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
+      "cast":"Emilia Clarke, Kit Harington, Peter Dinklage"
+        
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Stranger things",
+      "image": "stranger.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Stranger Things is a popular science-fiction, thriller, and horror series set in the 1980s in a small town called Hawkins, Indiana.",
+      "cast":"Millie Bobby Brown, Finn Wolfhard, David Harbour"
+
+    },
+    {
+      "id": 5,
+      "title": "Jai Lava Kusa",
+      "image": "/images/jailavakusa.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
+      "cast":"Jr NTR, Raashi Khanna, Nivetha Thomas"
+
+
+
+    },
+    {
+      "id": 6,
+      "title": "Nanaku Prematho",
+      "image": "/images/Nanaku.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Stranger Things is a popular science-fiction, thriller, and horror series set in the 1980s in a small town called Hawkins, Indiana.",
+      "cast":"Jr NTR, Rakul Preet Singh, Jagapathi Babu"
+
+    },
+    {
+      "id": 7,
+      "title": "Original Gangster",
+      "image": "/images/OG.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Packed with high-octane action, dark emotions, and mass attitude, OG presents a world where power speaks louder than words and the Original Gangster always dominates.",
+      "cast":"Pawan Kalyan, Emraan Hashmi"
+
+    },
+    {
+      "id": 8,
+      "title": "Billa",
+      "image": "/images/Billa.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Billa is a stylish action–crime thriller that follows the rise and fall of a feared international gangster whose name alone creates terror",
+      "cast":"Prabhas, Anushka Shetty, Krishnam Raju"
+
+    },
+    {
+      "id": 9,
+      "title": "Temper",
+      "image": "/images/Temper.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Temper is a powerful action–drama about Daya, a corrupt and short-tempered police officer who works only for money. When a shocking crime exposes his moral emptiness, Daya is forced to face his conscience.",
+      "cast":"Jr NTR, Kajal Aggarwal, Prakash Raj"
+
+    },
+    {
+      "id": 10,
+      "title": "Mirzapur",
+      "image": "/images/Mirzapur.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Mirzapur is a gritty crime-thriller web series set in the lawless town of Mirzapur, where guns, power, and politics rule everything",
+      "cast":"Pankaj Tripathi, Divyenndu, Ali Fazal"
+
+    },
+    {
+      "id": 11,
+      "title": "Virupaksha",
+      "image": "/images/Virupaksha.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Virupaksha is a chilling mystery–supernatural thriller set in a remote village where a series of brutal deaths follows dark rituals and ancient beliefs",
+      "cast":"Sai Dharam Tej, Samyuktha Menon"
+
+    },
+    {
+      "id": 12,
+      "title": "Masooda",
+      "image": "/images/Masoodha.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Masooda is a gripping psychological horror–thriller rooted in realism and dark emotions. The story follows a mother and daughter whose lives spiral into terror when the daughter becomes mysteriously disturbed.",
+      "cast":"Sangeetha, Thiruveer"
+
+
+    },
+    {
+      "id": 13,
+      "title": "Arundhathi",
+      "image": "/images/Arundhathi.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Arundhati is a powerful socio-fantasy horror thriller that blends reincarnation, revenge, and divine strength. The story follows Arundhati, a courageous woman who discovers her connection to a fierce ancestor and confronts an ancient evil that continues to terrorize generations",
+      "cast":"Anushka Shetty, Sonu Sood"
+
+    },
+    {
+      "id": 14,
+      "title": "Kanchana",
+      "image": "/images/Kanchana.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Kanchana is a perfect blend of horror, comedy, and emotion. The story revolves around Raghava, a man who is extremely afraid of ghosts and refuses to step outside his house.",
+      "cast":"Raghava Lawrence, Lakshmi Rai"
+
+    },
+    {
+      "id": 15,
+      "title": "Polimera",
+      "image": "/images/Polimera.jpg",
+      "trailerId": "/saalar.mp4",
+      "desc":"Polimera is a dark folk-horror thriller set in a rural village where black magic, superstition, and fear silently control lives. When a series of disturbing incidents shakes the village, hidden secrets tied to ancient rituals begin to surface.",
+      "cast":"Satyam Rajesh, Baladitya"
+
+    }
+  
+   
+   
+
+  
+  ],
+  "shows":[
+    {
+      "id": 1,
+      "title": "Stranger things",
+      "image": "/images/Age.jpg",
+      "trailerId": "/saalar.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Stranger things",
+      "image": "/images/endgame.avif",
+      "trailerId": "/saalar.mp4"
+
+    },
+    {
+      "id": 3,
+      "title": "Stranger things",
+      "image": "/images/avengers2.jpg",
+      "trailerId": "/saalar.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Stranger things",
+      "image": "/images/Infinity.webp",
+      "trailerId": "/saalar.mp4"
+    },
+    {
+      "id": 5,
+      "title": "Stranger things",
+      "image": "/images/thor.jpg",
+      "trailerId": "/saalar.mp4"
+      
+    },
+    {
+      "id": 6,
+      "title": "Stranger things",
+      "image": "/images/thor3.jpg",
+      "trailerId": "/saalar.mp4"
+
+    },
+    { 
+      "id": 7,
+      "title": "Stranger things",
+      "image": "/images/thorlove.jpeg",
+      "trailerId": "/saalar.mp4"
+
+    },
+    {
+      "id": 8,
+      "title": "Stranger things",
+      "image": "/images/thor4.jpg",
+      "trailerId": "/saalar.mp4"
+    },
+    {
+      "id": 9,
+      "title": "Stranger things",
+      "image": "/images/iron3.jpg",
+      "trailerId": "/saalar.mp4"
+    },
+    {
+      "id": 10,
+      "title": "Stranger things",
+      "image": "/images/captain.jpg",
+      "trailerId": "/saalar.mp4"
+    }
+  ]
+}
