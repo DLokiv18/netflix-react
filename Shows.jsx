@@ -1,4 +1,4 @@
-import Showbanner from "./ShowBanner"
+import Showbanner from "./Showbanner"
 import React,{useState,useEffect} from "react"
 import { useNavigate } from "react-router-dom"
 function Shows(){
