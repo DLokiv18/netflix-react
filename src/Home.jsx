@@ -11,9 +11,9 @@ function Home(){
         .then(response=>response.json())
         .then(data=>setMovie(data))
     }
-    function task1(trailerId){
+    function task1(trailerid){
         
-        navigate("/trailer",{state:{trailerId}})
+        navigate("/trailer",{state:{trailerid}})
 
     }    
     
@@ -24,7 +24,7 @@ function Home(){
         
         <div className="Container1">
              
-            {movie.map((x)=><img className="movie" src={x.image} onClick={()=>task1(x.trailerId)}/>)}
+            {movie.map((x)=><img className="movie" src={x.image} onClick={()=>task1(x.trailerid)}/>)}
         </div>
        
         </>

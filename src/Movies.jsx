@@ -17,8 +17,8 @@ function handler4(index){
 function handler5(){
     sethidephoto(null)
 }
-function handler6(trailerId){
-  navigate("/trailer",{state:{trailerId}})
+function handler6(trailerid){
+  navigate("/trailer",{state:{trailerid}})
 
 }
     
@@ -40,7 +40,7 @@ function handler6(trailerId){
            
             <div className="childhoverText">
                
-                <button className="Buttonhover1" onClick={()=>handler6(x.trailerId)}>Watch</button>
+                <button className="Buttonhover1" onClick={()=>handler6(x.trailerid)}>Watch</button>
                 <button className="Buttonhover2">+</button>
                 <p className="Text10">2025.U/A 16+ . 2h 29m . 7Languages</p>
                 <p className="Description">{x.desc}</p>

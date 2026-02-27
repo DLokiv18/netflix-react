@@ -2,15 +2,15 @@ import React,{useState} from "react"
 import { useLocation } from "react-router-dom";
 function Trailer(){
     const location = useLocation();
-    const { trailerId } = location.state || {};
+    const { trailerid } = location.state || {};
 
-  if (!trailerId) return <div>No trailer selected</div>;
+  if (!trailerid) return <div>No trailer selected</div>;
 
     
     
     return(
         <>
-        <video src={trailerId} controls autoPlay></video>
+        <video src={trailerid} controls autoPlay></video>
         </>
     )
 }

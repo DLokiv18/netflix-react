@@ -17,8 +17,8 @@ function My(){
       
 
      }
-     function handler7(trailerId){
-        navigate("/trailer",{state:{trailerId}})
+     function handler7(trailerid){
+        navigate("/trailer",{state:{trailerid}})
      }
 
     return(
@@ -50,7 +50,7 @@ function My(){
 
                </div>
                <div className="ButtonGroups">
-               <button className="Watch" onClick={()=>handler7(x.trailerId)}>Watch Trailer</button>
+               <button className="Watch" onClick={()=>handler7(x.trailerid)}>Watch Trailer</button>
                <button className="Watchbutton">+Watchlist</button>
                </div>
                </>
