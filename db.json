@@ -2,25 +2,25 @@
   "movies": [
     {
       "id": 1,
-      "title": "KGF",
+      "title": "kgf",
       "image":"/images/kgf.jpg",
-      "trailerId": "/kgf.mp4",
+      "trailerId": "/images/kgf.mp4",
       "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"Yash, Srinidhi Shetty, Sanjay Dutt"
 
     },
     {
       "id": 2,
-      "title": "Salaar",
-      "image": "salaar.jpg",
-      "trailerId": "/saalar.mp4",
+      "title": "salaar",
+      "image": "/images/salaar.jpg",
+      "trailerId": "/images/saalar.mp4",
       "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and revenge.",
       "cast":"Prabhas,Prithviraj Sukumaran"
     },
     {
       "id": 3,
-      "title": "Game of Thrones",
-      "image": "game.jpg",
+      "title": "game of thrones",
+      "image": "/images/game.jpg",
       "trailerId": "/images/Game of Thrones.mp4",
       "desc":"A high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"Emilia Clarke, Kit Harington, Peter Dinklage"
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Stranger Things",
-      "image": "stranger.jpg",
+      "image": "/images/stranger.jpg",
       "trailerId": "/images/Stranger Things.mp4",
       "desc":"Stranger Things is a popular science-fiction, thriller, and horror series set in the 1980s in a small town called Hawkins, Indiana.",
       "cast":"Millie Bobby Brown, Finn Wolfhard, David Harbour"

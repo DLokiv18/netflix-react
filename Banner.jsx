@@ -22,8 +22,8 @@ function Banner(){
     return(
         <>
         <div className="Container3">
-            {imagehide &&<img className="wallpaper-kgf" src="k.jpg" alt="" />}
-            {hide && <video ref={Video} className="parent2" src="kgf.mp4"  muted ></video>}
+            {imagehide &&<img className="wallpaper-kgf" src="/images/k.jpg" alt="" />}
+            {hide && <video ref={Video} className="parent2" src="/images/kgf.mp4"  muted ></video>}
 
 
        
