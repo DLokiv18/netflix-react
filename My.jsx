@@ -29,7 +29,7 @@ function My(){
         </div>
         <div className="search">
         {mymovie.map((x)=>{
-          if(moviename===x.title){
+          if(moviename.toLowerCase()===x.title.toLowerCase()){
             return(
               <>
                <img className="search_image1" src={x.image}  />
