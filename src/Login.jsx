@@ -1,55 +1,70 @@
 import "../login.css"
 import React,{useState,useRef} from "react"
 import { useNavigate } from "react-router-dom"
+
 function Login(){
-    const [error,setError]=useState(null)
-    const navigate=useNavigate()
-    const email=useRef(null)
-    const password=useRef(null)
-    const [show,setShow]=useState(true)
-    function handler(e){
 
-        e.preventDefault()
-        if (email.current.value=="Lokesh" && password.current.value=="1234"){
-            navigate("/home")
-            setError("")
+  const [error,setError] = useState(null)
+  const navigate = useNavigate()
 
+  const email = useRef(null)
+  const password = useRef(null)
 
-        }
-        else{
+  function handler(e){
+    e.preventDefault()
 
-              
-              setError("Error Ocuured here ")
-              setShow(false)
-            
-       
+    const userEmail =
+      email.current.value.trim().toLowerCase()
 
-        }
+    const userPassword =
+      password.current.value.trim()
 
+    if (userEmail === "lokesh" && userPassword === "1234") {
+      navigate("/home")
+      setError(null)
+    } else {
+      setError("Invalid credentials")
     }
-    
-    return(
-        <>
-        <div className="Parent">
-           <div className="Container">
-              
+  }
 
-             {show && <form onSubmit={handler}>
-                  <h1>Sign In</h1>
-                  <input type="text" placeholder="Email or Phone number" ref={email}/>
-                  <br /><br />
-                  <input type="password" placeholder="password" ref={password}/>
-                  <br /><br />
-                  <button type="submit">Sign In</button>
+  return(
+    <div className="Parent">
+      <div className="Container">
 
-             </form>}
+        <form onSubmit={handler}>
+          <h1>Sign In</h1>
 
-             {error && <div className="wrong"><h1>Please enter a Valid email address</h1></div>}
+          <input
+            type="text"
+            placeholder="Email or Phone number"
+            autoCapitalize="none"
+            autoCorrect="off"
+            spellCheck="false"
+            ref={email}
+          />
 
-           </div>
-        </div>
-        </>
-    )
+          <br /><br />
+
+          <input
+            type="password"
+            placeholder="Password"
+            ref={password}
+          />
+
+          <br /><br />
+
+          <button type="submit">Sign In</button>
+        </form>
+
+        {error && (
+          <div className="wrong">
+            <h1>{error}</h1>
+          </div>
+        )}
+
+      </div>
+    </div>
+  )
 }
 
 export default Login
