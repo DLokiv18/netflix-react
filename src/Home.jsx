@@ -7,9 +7,9 @@ function Home(){
     const[movie,setMovie]=useState([])
     useEffect(Task,[])
     function Task(){
-        fetch("http://localhost:5000/movies")
+        fetch("/db.json")
         .then(response=>response.json())
-        .then(data=>setMovie(data))
+        .then(data=>setMovie(data.movies))
     }
     function task1(trailerid){
         
