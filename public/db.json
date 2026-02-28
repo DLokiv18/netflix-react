@@ -4,7 +4,7 @@
       "id": 1,
       "title": "kgf",
       "image":"/images/kgf.jpg",
-      "trailerid": "/images/kgf.mp4",
+      "trailerid": "https://www.youtube.com/embed/qXgF-iJ_ezE",
       "desc":"a high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"yash, srinidhi shetty, sanjay dutt"
 
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "salaar",
       "image": "/images/salaar.jpg",
-      "trailerid": "/images/saalar.mp4",
+      "trailerid": "https://www.youtube.com/embed/4GPvYMKtrtI",
       "desc":"a high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and revenge.",
       "cast":"prabhas,prithviraj sukumaran"
     },
@@ -21,7 +21,7 @@
       "id": 3,
       "title": "game of thrones",
       "image": "/images/game.jpg",
-      "trailerid": "/images/gameofthrones.mp4",
+      "trailerid": "https://www.youtube.com/embed/KPLWWIOCOOQ&t=12s",
       "desc":"a high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"emilia clarke, kit harington, peter dinklage"
         
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "stranger things",
       "image": "/images/stranger.jpg",
-      "trailerid": "/images/strangerthings.mp4",
+      "trailerid": "https://www.youtube.com/embed/AfQ13jsLDms",
       "desc":"stranger things is a popular science-fiction, thriller, and horror series set in the 1980s in a small town called hawkins, indiana.",
       "cast":"millie bobby brown, finn wolfhard, david harbour"
 
@@ -40,7 +40,7 @@
       "id": 5,
       "title": "jai lava kusa",
       "image": "/images/jailavakusa.jpg",
-      "trailerid": "/images/jailavakusa.mp4",
+      "trailerid": "https://www.youtube.com/embed/_wcs7ixyDbY",
       "desc":"a high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"jr ntr, raashi khanna, nivetha thomas"
 
@@ -51,7 +51,7 @@
       "id": 6,
       "title": "nanaku prematho",
       "image": "/images/nanaku.jpg",
-      "trailerid": "/images/nanakuprematho.mp4",
+      "trailerid": "https://www.youtube.com/embed/Om69gF1iiT4",
       "desc":"stranger things is a popular science-fiction, thriller, and horror series set in the 1980s in a small town called hawkins, indiana.",
       "cast":"jr ntr, rakul preet singh, jagapathi babu"
 
@@ -60,7 +60,7 @@
       "id": 7,
       "title": "original gangster",
       "image": "/images/og.jpg",
-      "trailerid": "/images/originalgangster.mp4",
+      "trailerid": "https://www.youtube.com/embed/_8J8LwoVH_0",
       "desc":"packed with high-octane action, dark emotions, and mass attitude, og presents a world where power speaks louder than words and the original gangster always dominates.",
       "cast":"pawan kalyan, emraan hashmi"
 
@@ -69,7 +69,7 @@
       "id": 8,
       "title": "billa",
       "image": "/images/billa.jpg",
-      "trailerid": "/images/billa.mp4",
+      "trailerid": "https://www.youtube.com/embed/1qM4yQhWr0A",
       "desc":"billa is a stylish action–crime thriller that follows the rise and fall of a feared international gangster whose name alone creates terror",
       "cast":"prabhas, anushka shetty, krishnam raju"
 
@@ -78,7 +78,7 @@
       "id": 9,
       "title": "temper",
       "image": "/images/temper.jpg",
-      "trailerid": "/images/temper.mp4",
+      "trailerid": "https://www.youtube.com/embed/SQgRN5tu1f4",
       "desc":"temper is a powerful action–drama about daya, a corrupt and short-tempered police officer who works only for money. when a shocking crime exposes his moral emptiness, daya is forced to face his conscience.",
       "cast":"jr ntr, kajal aggarwal, prakash raj"
 
@@ -87,7 +87,7 @@
       "id": 10,
       "title": "mirzapur",
       "image": "/images/mirzapur.jpg",
-      "trailerid": "/images/mirzapur.mp4",
+      "trailerid": "https://www.youtube.com/embed/ENb48XjVl0Y",
       "desc":"mirzapur is a gritty crime-thriller web series set in the lawless town of mirzapur, where guns, power, and politics rule everything",
       "cast":"pankaj tripathi, divyenndu, ali fazal"
 
@@ -96,7 +96,7 @@
       "id": 11,
       "title": "virupaksha",
       "image": "/images/virupaksha.jpg",
-      "trailerid": "/images/virupaksha.mp4",
+      "trailerid": "https://www.youtube.com/embed/BC9s_Zof_Xk",
       "desc":"virupaksha is a chilling mystery–supernatural thriller set in a remote village where a series of brutal deaths follows dark rituals and ancient beliefs",
       "cast":"sai dharam tej, samyuktha menon"
 
@@ -105,7 +105,7 @@
       "id": 12,
       "title": "masooda",
       "image": "/images/masoodha.jpg",
-      "trailerid": "/images/masoodha.mp4",
+      "trailerid": "https://www.youtube.com/embed/Hpfn0llr1EE",
       "desc":"masooda is a gripping psychological horror–thriller rooted in realism and dark emotions. the story follows a mother and daughter whose lives spiral into terror when the daughter becomes mysteriously disturbed.",
       "cast":"sangeetha, thiruveer"
 
@@ -115,7 +115,7 @@
       "id": 13,
       "title": "arundhathi",
       "image": "/images/arundhathi.jpg",
-      "trailerid": "/images/arundhathi.mp4",
+      "trailerid": "https://www.youtube.com/embed/3OXhA30aJ7M",
       "desc":"arundhati is a powerful socio-fantasy horror thriller that blends reincarnation, revenge, and divine strength. the story follows arundhati, a courageous woman who discovers her connection to a fierce ancestor and confronts an ancient evil that continues to terrorize generations",
       "cast":"anushka shetty, sonu sood"
 
@@ -124,7 +124,7 @@
       "id": 14,
       "title": "kanchana",
       "image": "/images/kanchana.jpg",
-      "trailerid": "/images/kanchana.mp4",
+      "trailerid": "https://www.youtube.com/embed/p078qlaiypw",
       "desc":"kanchana is a perfect blend of horror, comedy, and emotion. the story revolves around raghava, a man who is extremely afraid of ghosts and refuses to step outside his house.",
       "cast":"raghava lawrence, lakshmi rai"
 
@@ -133,7 +133,7 @@
       "id": 15,
       "title": "polimera",
       "image": "/images/polimera.jpg",
-      "trailerid": "/images/polimera.mp4",
+      "trailerid": "https://www.youtube.com/embed/8YA6eBSjDlc",
       "desc":"polimera is a dark folk-horror thriller set in a rural village where black magic, superstition, and fear silently control lives. when a series of disturbing incidents shakes the village, hidden secrets tied to ancient rituals begin to surface.",
       "cast":"satyam rajesh, baladitya"
 
