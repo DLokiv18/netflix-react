@@ -10,7 +10,12 @@ function Trailer(){
     
     return(
         <>
-        <video src={trailerid} controls autoPlay></video>
+       <iframe
+      width="100%"
+      height="500"
+      src={trailerid}
+      allowFullScreen
+    />
         </>
     )
 }
