@@ -10,7 +10,7 @@ function Trailer(){
     
     return(
         <>
-        <video src={trailerid} controls autoPlay></video>
+        <video src={trailerid} controls autoPlay muted></video>
         </>
     )
 }
