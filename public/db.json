@@ -21,7 +21,7 @@
       "id": 3,
       "title": "game of thrones",
       "image": "/images/game.jpg",
-      "trailerid": "https://www.youtube.com/embed/KPLWWIOCOOQ&t=12s",
+      "trailerid": "https://www.youtube.com/embed/uKuirT2uhIs",
       "desc":"a high-action thriller that follows a powerful man rising against betrayal and injustice in a dark, violent world driven by power and reveng",
       "cast":"emilia clarke, kit harington, peter dinklage"
         
@@ -149,65 +149,65 @@
       "id": 1,
       "title": "stranger things",
       "image": "/images/age.jpg",
-      "trailerid": "/images/avengersendgame.mp4"
+      "trailerid": "https://www.youtube.com/embed/P5iIPfNzj2o"
     },
     {
       "id": 2,
       "title": "stranger things",
       "image": "/images/endgame.avif",
-      "trailerid": "/images/avengersendgame.mp4"
+      "trailerid": "https://www.youtube.com/embed/6ZfuNTqbHE8"
 
     },
     {
       "id": 3,
       "title": "stranger things",
       "image": "/images/avengers2.jpg",
-      "trailerid": "/images/avengersendgame.mp4"
+      "trailerid": "https://www.youtube.com/embed/6ZfuNTqbHE8"
     },
     {
       "id": 4,
       "title": "stranger things",
       "image": "/images/infinity.webp",
-      "trailerid": "/images/avengerendgame.mp4"
+      "trailerid": "https://www.youtube.com/embed/pVxOVlm_lE8"
     },
     {
       "id": 5,
       "title": "stranger things",
       "image": "/images/thor.jpg",
-      "trailerid": "/images/thor.mp4"
+      "trailerid": "https://www.youtube.com/embed/xphJMM1ipJo"
       
     },
     {
       "id": 6,
       "title": "stranger things",
       "image": "/images/thor3.jpg",
-      "trailerid": "/images/thor.mp4"
+      "trailerid": "https://www.youtube.com/embed/xphJMM1ipJo"
 
     },
     { 
       "id": 7,
       "title": "stranger things",
       "image": "/images/thorlove.jpeg",
-      "trailerid": "/images/thor.mp4"
+      "trailerid": "https://www.youtube.com/Go8nTmfrQd8"
 
     },
     {
       "id": 8,
       "title": "stranger things",
       "image": "/images/thor4.jpg",
-      "trailerid": "/images/thor.mp4"
+      "trailerid": "https://www.youtube.com/embed/v7MGUNV8MxU"
     },
     {
       "id": 9,
       "title": "stranger things",
       "image": "/images/iron3.jpg",
-      "trailerid": "/images/ironman.mp4"
+      "trailerid": "https://www.youtube.com/embed/oYSD2VQagc4"
     },
     {
       "id": 10,
       "title": "stranger things",
       "image": "/images/captain.jpg",
-      "trailerid": "/images/captain.mp4"
+      "trailerid": "https://www.youtube.com/embed/dKrVegVI0Us"
     }
   ]
 }
