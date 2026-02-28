@@ -10,7 +10,7 @@ function Login(){
     function handler(e){
 
         e.preventDefault()
-        if (email.current.value=="Lokesh" && password.current.value==1234){
+        if (email.current.value=="Lokesh" && password.current.value=="1234"){
             navigate("/home")
             setError("")
 
