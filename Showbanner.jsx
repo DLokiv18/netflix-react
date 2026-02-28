@@ -26,8 +26,10 @@ function Showbanner(){
   <iframe
     className="parent2"
     src="https://www.youtube.com/embed/0jNvJU52LvU"
+    width="100%"
+    height:"500"      
     title="Trailer"
-    allow="autoplay; fullscreen"
+    allowFullScreen
   />
 )}
     
