@@ -7,9 +7,9 @@ function My(){
     const[moviename,setmoviename]=useState("")
      useEffect(Task5,[])
      function Task5(){
-        fetch("http://localhost:5000/movies")
+        fetch("/db.json")
         .then(response=>response.json())
-        .then(data=>setMymovie(data))
+        .then(data=>setMymovie(data.movies))
      }
      const inputref=useRef(null)
      function handler1(){

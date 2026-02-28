@@ -7,9 +7,9 @@ function Movies(){
     const [hidephoto,sethidephoto]=useState()
     useEffect(Task8,[])
     function Task8(){
-            fetch("http://localhost:5000/movies") 
+            fetch("/db.json") 
             .then(response=>response.json())
-            .then(data=>setmoviefloat(data))
+            .then(data=>setmoviefloat(data.movies))
 }
 function handler4(index){
     sethidephoto(index)

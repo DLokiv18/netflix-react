@@ -6,13 +6,13 @@ function Shows(){
         const[showmovie,setshowMovie]=useState([])
         useEffect(Task2,[])
         function Task2(){
-            fetch("http://localhost:5000/shows")
+            fetch("/db.json")
             .then(response=>response.json())
-            .then(data=>setshowMovie(data))
+            .then(data=>setshowMovie(data.shows))
         }
-        function task3(trailerId){
+        function task3(trailerid){
             
-            navigate("/trailer",{state:{trailerId}})
+            navigate("/trailer",{state:{trailerid}})
     
         }    
     return(
@@ -21,7 +21,7 @@ function Shows(){
         
         <div className="Container1">
              
-            {showmovie.map((x)=><img className="movie" src={x.image} onClick={()=>task3(x.trailerId)}/>)}
+            {showmovie.map((x)=><img className="movie" src={x.image} onClick={()=>task3(x.trailerid)}/>)}
         </div>
        
         </>

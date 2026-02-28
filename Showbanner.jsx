@@ -22,7 +22,7 @@ function Showbanner(){
             <>
             <div className="Container3">
                 {imagehides &&<img className="wallpaper-kgf" src="/images/iron.jpg" alt="" />}
-                {hides && <video ref={Videos} className="parent2" src="/images/Avengers Endgame.mp4"  muted ></video>}
+                {hides && <video ref={Videos} className="parent2" src="/images/avengersendgame.mp4"  muted ></video>}
     
     
            
