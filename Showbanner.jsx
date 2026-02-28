@@ -22,7 +22,14 @@ function Showbanner(){
             <>
             <div className="Container3">
                 {imagehides &&<img className="wallpaper-kgf" src="/images/iron.jpg" alt="" />}
-                {hides && <video ref={Videos} className="parent2" src="/images/avengersendgame.mp4"  muted ></video>}
+                {hides && (
+  <iframe
+    className="parent2"
+    src="https://www.youtube.com/embed/TcMBFSGVi1c?autoplay=1&mute=1"
+    title="Trailer"
+    allow="autoplay; fullscreen"
+  />
+)}
     
     
            
