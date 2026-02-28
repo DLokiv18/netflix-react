@@ -25,7 +25,7 @@ function Showbanner(){
                 {hides && (
   <iframe
     className="parent2"
-    src="https://www.youtube.com/watch?v=0jNvJU52LvU"
+    src="https://www.youtube.com/embed/0jNvJU52LvU"
     title="Trailer"
     allow="autoplay; fullscreen"
   />
